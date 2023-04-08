@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<package format="2">
+  <name>ros_tutorial</name>
+  <version>0.0.0</version>
+  <description>The test package</description>
+  <maintainer email="1yun2yun3yudai@gmail.com">yudai</maintainer>
+  <license>TODO</license>
+  <buildtool_depend>catkin</buildtool_depend>
+  <build_depend>roscpp</build_depend>
+  <build_depend>std_msgs</build_depend>
+  <exec_depend>roscpp</exec_depend>
+  <exec_depend>std_msgs</exec_depend>
+</package>
+
+<build_depend>roscpp</build_depend>
+<build_depend>std_msgs</build_depend>
+<exec_depend>roscpp</exec_depend>
+<exec_depend>std_msgs</exec_depend>
